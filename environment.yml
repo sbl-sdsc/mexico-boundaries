@@ -1,0 +1,10 @@
+name: mexico-boundaries 
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python
+  - jupyterlab
+  - pyarrow
+  - geopandas
